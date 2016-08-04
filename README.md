@@ -1,3 +1,0 @@
-Begin
-
-First line
